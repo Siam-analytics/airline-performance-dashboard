@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides a comprehensive analysis of global airline performance using operational and financial metrics such as fleet size, EBIT (USD), ASK, passenger yield, and load factor. The visualizations explore the contrast between low-cost carriers and traditional airlines across regions.
 
-![Dashboard Screenshot](./Screenshot%202025-07-06%20194259.png)
+![Dashboard Screenshot](https://github.com/Siam-analytics/airline-performance-dashboard/blob/main/Screenshot%202025-07-06%20174900.png)
 
 ## 📌 Project Highlights
 
@@ -23,9 +23,8 @@ This Power BI dashboard provides a comprehensive analysis of global airline perf
 
 ## 📁 Files
 
-- `AirlineDashboard.pbix` (Power BI file - not uploaded here)
-- `Screenshot 2025-07-06 194259.png` (Dashboard view)
-- `Screenshot 2025-07-06 194307.png` (Tooltip insights)
+- `AirlinePerformanceAnalysis.pbix`
+- `airline_data.csv`
 
 ## 💡 Tools Used
 
